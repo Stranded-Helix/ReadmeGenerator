@@ -1,0 +1,24 @@
+{
+  "name": "ReadmeGenerator",
+  "version": "1.0.0",
+  "description": "Simple markdown Readme Generator",
+  "main": "index.js",
+  "dependencies": {
+    "inquirer": "^8.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Stranded-Helix/ReadmeGenerator.git"
+  },
+  "keywords": [],
+  "author": "Garrett Fite",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Stranded-Helix/ReadmeGenerator/issues"
+  },
+  "homepage": "https://github.com/Stranded-Helix/ReadmeGenerator#readme"
+}
