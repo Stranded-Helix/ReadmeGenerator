@@ -93,7 +93,7 @@ inquirer.prompt([
         }
         tableOfContents += ` \n[Questions](#Questions) \n`;
         readmeBody = `${readmeHeader}\n${tableOfContents}\n${readmeBody}\n\n${questions}`;
-        fs.writeFile(`README.md`, readmeBody, () => console.log("Readme generated"));
+        fs.writeFile(__dirname + `/GeneratedReadmes/README.md`, readmeBody, () => console.log("Readme generated"));
     });
 
 

@@ -1,12 +1,12 @@
-# Readme Generator
-## Terminal based readme generator to create markdown files 
+# Barcode Generator
+## Code 128 Barcode Generator 
 
 ## Table of Contents 
 [installation](#installation)
  
 [project-usage](#project-usage)
  
-[contributing](#contributing)
+[tests](#tests)
  
 [license](#license)
  
@@ -14,13 +14,13 @@
 
 ## Installation
 ***
-Clone from Github and run npm i
+Download .exe from /bin
 ## Project Usage
 ***
-To Create formatted readme files
-## Contributing
+Creates barcode images from user input
+## Tests
 ***
-Pull Request on Github
+Scan with appropiate scanner
 ## License
 ***
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
