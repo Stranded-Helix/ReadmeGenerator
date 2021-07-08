@@ -1,12 +1,10 @@
-# Barcode Generator
-## Code 128 Barcode Generator 
+# Note Taker
+## Web based notebook 
 
 ## Table of Contents 
 [installation](#installation)
  
-[project-usage](#project-usage)
- 
-[tests](#tests)
+[contributing](#contributing)
  
 [license](#license)
  
@@ -14,13 +12,10 @@
 
 ## Installation
 ***
-Download .exe from /bin
-## Project Usage
+git clone
+## Contributing
 ***
-Creates barcode images from user input
-## Tests
-***
-Scan with appropiate scanner
+Pull Requests through Github
 ## License
 ***
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -31,4 +26,4 @@ MIT License
 ***
 Github: Stranded-Helix
 
-E-mail: garrett.fite@gmail.com
+E-mail: Garrett.fite@gmail.com
